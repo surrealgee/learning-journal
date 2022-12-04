@@ -194,6 +194,7 @@ footer span {
     object-fit: cover;
     border-radius: 3px;
     margin-bottom: 3.6em;
+    object-position: 0 -210px;
 }
 
 .article-main h2 {
